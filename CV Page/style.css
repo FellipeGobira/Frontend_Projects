@@ -1,0 +1,24 @@
+body {
+    padding: 5%;
+}
+
+
+hr {
+    background-color: black;
+    height: 3px;
+}
+
+.titulos {
+    color: green;
+    text-transform: capitalize;
+}
+
+
+.exp {
+    color: rgb(17, 116, 209);
+}
+
+a {
+color: rgb(17, 116, 209);
+
+}
