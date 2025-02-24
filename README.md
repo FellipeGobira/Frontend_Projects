@@ -4,6 +4,6 @@ This repository contains front-end projects built following the [roadmap.sh](htt
 
 
 # Projects List
-[Single Page CV](https://roadmap.sh/projects/single-page-cv) / 
-[Solution](https://github.com/FellipeGobira/roadmapfrontend/tree/main/CV%20Page)
+
+1 - [Single Page CV](https://github.com/FellipeGobira/roadmapfrontend/tree/main/CV%20Page)
 
